@@ -1,5 +1,5 @@
 ---
-name: simple
+name: stakeholders requirment
 about: one simple issue
 title: ''
 labels: ''
